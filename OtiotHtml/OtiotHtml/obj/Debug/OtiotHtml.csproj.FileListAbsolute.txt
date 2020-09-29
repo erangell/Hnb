@@ -1,0 +1,5 @@
+c:\users\ericr\documents\visual studio 2017\Projects\OtiotHtml\OtiotHtml\bin\Debug\OtiotHtml.exe.config
+c:\users\ericr\documents\visual studio 2017\Projects\OtiotHtml\OtiotHtml\bin\Debug\OtiotHtml.exe
+c:\users\ericr\documents\visual studio 2017\Projects\OtiotHtml\OtiotHtml\bin\Debug\OtiotHtml.pdb
+c:\users\ericr\documents\visual studio 2017\Projects\OtiotHtml\OtiotHtml\obj\Debug\OtiotHtml.exe
+c:\users\ericr\documents\visual studio 2017\Projects\OtiotHtml\OtiotHtml\obj\Debug\OtiotHtml.pdb

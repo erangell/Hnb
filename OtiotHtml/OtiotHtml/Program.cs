@@ -16,8 +16,8 @@ namespace OtiotHtml
         static void Main(string[] args)
         {
             int book = 1;
-            string bookname = "genesis";
-            int chapters = 50;
+            string bookname = "exodus";
+            int chapters = 40;
 
             for (int chapter = 1; chapter <= chapters; chapter++)
             {
@@ -125,6 +125,7 @@ namespace OtiotHtml
                 case "pvav.": { ot = "v.png"; break; }
                 case "pyowd.": { ot = "y.png"; break; }
                 case "pzayin.": { ot = "z.png"; break; }
+                case "psamek.": { ot = "s.png"; break; }
             }
             return "<img src=" + ot + ">";
         }
